@@ -1,0 +1,17 @@
+.container{
+  padding: 16px;
+  width: 70%;
+  margin: auto;
+  display: grid;
+  grid-row-gap: 16px;
+}
+.container table{
+  width: 100%;
+}
+table td{
+  padding: 4px 10px;
+}
+table ,td, th, tr{
+  border:1px solid gray;
+  border-collapse: collapse;
+}
